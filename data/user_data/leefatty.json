@@ -1,0 +1,26 @@
+{
+  "workshop_config": {
+    "equipment_bench": {
+      "current": 1,
+      "planned": 2
+    },
+    "explosives_bench": {
+      "current": 1,
+      "planned": 1
+    },
+    "med_station": {
+      "current": 1,
+      "planned": 1
+    },
+    "refiner": {
+      "current": 3,
+      "planned": 3
+    },
+    "scrappy": {
+      "current": 1,
+      "planned": 1
+    }
+  },
+  "shopping_list": [],
+  "active_quests": []
+}
